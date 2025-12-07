@@ -50,7 +50,6 @@ A complete, detailed explanation of all **100 DevOps Commands**, including descr
 👉 **Full Article:**  
 **[(https://medium.com/@jobanjitsinghamritsar/mastering-the-top-100-commands-every-cloud-devops-engineer-must-know-ccb1d31aa90a)]**
 
-Paste your Medium / LinkedIn / Website link above once published.
 
 ---
 
