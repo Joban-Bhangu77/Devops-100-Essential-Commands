@@ -33,7 +33,7 @@ In fast-paced DevOps environments, command-line mastery is essential for speed, 
 │── terraform-commands      → 10 Terraform IaC commands
 │── jenkins-commands        → 10 Jenkins CI/CD commands
 │── aws-cli-commands        → 15 AWS Cloud CLI commands
-└── assets/                  → (optional screenshots/diagrams)
+└── assets/                 → (optional screenshots/diagrams)
 ```
 
 Each file contains:
