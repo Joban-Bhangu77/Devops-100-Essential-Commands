@@ -48,7 +48,7 @@ Each file contains:
 A complete, detailed explanation of all **100 DevOps Commands**, including descriptions and use cases, is available in the long-form blog post linked below.
 
 👉 **Full Article:**  
-**[Add your final blog link here]**
+**[(https://medium.com/@jobanjitsinghamritsar/mastering-the-top-100-commands-every-cloud-devops-engineer-must-know-ccb1d31aa90a)]**
 
 Paste your Medium / LinkedIn / Website link above once published.
 
