@@ -135,7 +135,7 @@ This repository is your practical training partner for becoming a highly effecti
 ## 🔗 Blog Post Link Placeholder  
 ```
 Full Blog Post Link:  
-
+https://github.com/Joban-Bhangu77/Devops-100-Essential-Commands.git
 ```
 
 ---
