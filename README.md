@@ -1,5 +1,5 @@
 # 🛠️🌩️ Cloud & DevOps Engineering – 100 Essential Commands  
-A Practical Hands-On Guide for Modern DevOps Engineers
+A practical hands-on guide covering the top 100 essential commands used in Cloud and DevOps Engineering. This project includes clear explanations and real-world use cases across Linux, Git, Docker, Kubernetes, Terraform, Jenkins, and AWS CLI—designed to strengthen command-line skills and support everyday DevOps workflows.
 
 ---
 
