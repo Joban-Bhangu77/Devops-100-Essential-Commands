@@ -1,5 +1,5 @@
 # 📝 Project Task: DevOps 100 Essential Commands  
-Documentation & Purpose of This Project
+
 
 ---
 
