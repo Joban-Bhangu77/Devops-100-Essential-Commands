@@ -25,15 +25,15 @@ In fast-paced DevOps environments, command-line mastery is essential for speed, 
 ## ☁️⚙️ What This Repository Contains  
 ```
 📁 devops-100-essential-commands/
-│── README.md                     → Main documentation
-│── linux-commands.md             → 20 essential Linux commands
-│── git-commands.md               → 15 Git commands
-│── docker-commands.md            → 15 Docker commands
-│── kubernetes-commands.md        → 15 Kubernetes commands
-│── terraform-commands.md         → 10 Terraform IaC commands
-│── jenkins-commands.md           → 10 Jenkins CI/CD commands
-│── aws-cli-commands.md           → 15 AWS Cloud CLI commands
-└── assets/                       → (optional screenshots/diagrams)
+│── README                  → Main documentation
+│── linux-commands          → 20 essential Linux commands
+│── git-commands            → 15 Git commands
+│── docker-commands         → 15 Docker commands
+│── kubernetes-commands     → 15 Kubernetes commands
+│── terraform-commands      → 10 Terraform IaC commands
+│── jenkins-commands        → 10 Jenkins CI/CD commands
+│── aws-cli-commands        → 15 AWS Cloud CLI commands
+└── assets/                  → (optional screenshots/diagrams)
 ```
 
 Each file contains:
