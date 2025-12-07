@@ -135,7 +135,7 @@ This repository is your practical training partner for becoming a highly effecti
 ## 🔗 Blog Post Link Placeholder  
 ```
 Full Blog Post Link:  
-https://github.com/Joban-Bhangu77/Devops-100-Essential-Commands.git
+[https://github.com/Joban-Bhangu77/Devops-100-Essential-Commands.git](https://medium.com/@jobanjitsinghamritsar/mastering-the-top-100-commands-every-cloud-devops-engineer-must-know-ccb1d31aa90a)
 ```
 
 ---
